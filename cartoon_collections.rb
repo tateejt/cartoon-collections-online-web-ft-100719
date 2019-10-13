@@ -7,7 +7,7 @@ def roll_call_dwarves(array)# code an argument here
   end
 end
 
-def summon_captain_plane(array)t# code an argument here
+def summon_captain_planet(array)t# code an argument here
   # Your code here
    nu_array = []
   i = 0 
